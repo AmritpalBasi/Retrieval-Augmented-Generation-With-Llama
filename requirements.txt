@@ -1,0 +1,10 @@
+torch
+langchain
+sentence-transformers
+pinecone-client
+python-dotenv
+datasets
+bitsandbytes
+accelerate
+xformers
+einops
